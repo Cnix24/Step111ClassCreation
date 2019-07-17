@@ -1,0 +1,11 @@
+C:\Users\cback\source\repos\ClassCreateStep111\bin\Debug\netcoreapp2.1\ClassCreateStep111.deps.json
+C:\Users\cback\source\repos\ClassCreateStep111\bin\Debug\netcoreapp2.1\ClassCreateStep111.runtimeconfig.json
+C:\Users\cback\source\repos\ClassCreateStep111\bin\Debug\netcoreapp2.1\ClassCreateStep111.runtimeconfig.dev.json
+C:\Users\cback\source\repos\ClassCreateStep111\bin\Debug\netcoreapp2.1\ClassCreateStep111.dll
+C:\Users\cback\source\repos\ClassCreateStep111\bin\Debug\netcoreapp2.1\ClassCreateStep111.pdb
+C:\Users\cback\source\repos\ClassCreateStep111\obj\Debug\netcoreapp2.1\ClassCreateStep111.csprojAssemblyReference.cache
+C:\Users\cback\source\repos\ClassCreateStep111\obj\Debug\netcoreapp2.1\ClassCreateStep111.csproj.CoreCompileInputs.cache
+C:\Users\cback\source\repos\ClassCreateStep111\obj\Debug\netcoreapp2.1\ClassCreateStep111.AssemblyInfoInputs.cache
+C:\Users\cback\source\repos\ClassCreateStep111\obj\Debug\netcoreapp2.1\ClassCreateStep111.AssemblyInfo.cs
+C:\Users\cback\source\repos\ClassCreateStep111\obj\Debug\netcoreapp2.1\ClassCreateStep111.dll
+C:\Users\cback\source\repos\ClassCreateStep111\obj\Debug\netcoreapp2.1\ClassCreateStep111.pdb
